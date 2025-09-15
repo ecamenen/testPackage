@@ -20,3 +20,6 @@ docker_launch.sh
 ^\.RData$
 ^\.github$
 ^codecov\.yml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

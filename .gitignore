@@ -17,3 +17,4 @@ dev/
 .DS_Store
 .quarto
 inst/doc
+docs
